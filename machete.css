@@ -1,3 +1,50 @@
 .titulo{
     color:bisque;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+h4{
+    background-color: black;
+    color:#f7b7b6;
+}
+
+p{
+    background-color: #5C5247;
+    color:#EBEFBF;
+    
+}
+div{
+    background-color: #2E2C3A;
+    
+    border-radius: 52% 48% 53% 47% / 97% 72% 28% 3%
+}
+
+.myButton {
+	box-shadow: 0px 1px 0px 0px #1c1b18;
+	background:linear-gradient(to bottom, #eae0c2 5%, #ccc2a6 100%);
+	background-color:#eae0c2;
+	border-radius:15px;
+	border:2px solid #333029;
+	display:inline-block;
+	cursor:pointer;
+	color:#505739;
+	font-family:Arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:9px 16px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #ccc2a6 5%, #eae0c2 100%);
+	background-color:#ccc2a6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+img{
+    width: 10%;
+    height: 50%;
 }
