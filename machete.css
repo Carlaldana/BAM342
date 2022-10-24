@@ -1,3 +1,4 @@
+
 .titulo{
     color:bisque;
     font-family: 'Montserrat', sans-serif;
@@ -13,11 +14,6 @@ p{
     background-color: #5C5247;
     color:#EBEFBF;
     
-}
-div{
-    background-color: #2E2C3A;
-    
-    border-radius: 52% 48% 53% 47% / 97% 72% 28% 3%
 }
 
 .myButton {
@@ -45,6 +41,38 @@ div{
 	top:1px;
 }
 img{
-    width: 10%;
-    height: 50%;
+    width: 250px;
+    height: 250px;
+	object-fit: cover;
+}
+
+#imagen2{
+	width: 500px;
+	height: 300px;
+margin-top: 20%;
+display: inline-block;
+}
+.formulario{
+    background-color: #EBEFBF;
+}
+#p1{ color: black;
+    font-size:large;
+    border: 3px solid #41393F;
+	
+}
+#p2{
+    color:black;
+    font-size: large;
+    border:5px solid white;
+    border-radius: 52% 48% 53% 47% / 97% 72% 28% 3%;
+	
+}
+
+.paginas nav{
+	display:flex;
+	font-family: 'Courier New', Courier, monospace;
+	text-decoration:overline   
+}
+main{
+	background-color: #706C61;
 }
