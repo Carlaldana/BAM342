@@ -46,10 +46,9 @@ img{
 	object-fit: cover;
 }
 
-#imagen2{
+.imagen2{
 	width: 500px;
-	height: 300px;
-margin-top: 20%;
+	height: 200px;
 display: inline-block;
 }
 .formulario{
@@ -75,4 +74,11 @@ display: inline-block;
 }
 main{
 	background-color: #706C61;
+	text-align:left
+	
+	
+}
+footer{
+	background-color: #706C61;
+	text-align: center;
 }
